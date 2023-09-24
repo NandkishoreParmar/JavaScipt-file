@@ -1,4 +1,4 @@
-"use strict "; // treat all js code as newer version
+"use strict "; // treat all js code as newer version i js
 
 //alert (3 + 3) //we are using nodejs, not browser
 
@@ -33,4 +33,3 @@ console.log(3
     console.log(typeof age) // typeoff kisi bhi variable ka datatype check karne ke liye use karte
     console.log(typeof null)// output object 
     console.log(typeof undefined)// output undefined
-    
