@@ -33,3 +33,5 @@ console.log(3
     console.log(typeof age) // typeoff kisi bhi variable ka datatype check karne ke liye use karte
     console.log(typeof null)// output object 
     console.log(typeof undefined)// output undefined
+
+    //completed
