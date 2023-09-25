@@ -35,3 +35,27 @@ const myFunction = function() {
 }
 
 //https://262.ecma-international.org/5.1/#sec-11.4.3
+
+//++++++++++++++++++Memory+++++++++++++
+
+// Stack(Primitive)   , Heap(Non primitive)
+//    Stack(primitive)
+
+let myYoutube="Nandkishore"
+let anotherName= myYoutube
+anotherName="chai aur code "
+
+console.log(myYoutube);
+console.log(anotherName);
+
+// Heap(non primitive)
+let userOne={
+    email: "nandkishoreparmar91@gmail.com",
+    upi: "upi@ubl",
+
+}
+let userTwo = userOne
+userTwo.email="nk@gmail.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
