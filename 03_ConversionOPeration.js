@@ -66,4 +66,4 @@ let isLoggedIn= 1
  console.log(gameCounter);
  
  //link to study
- //https://tc39.es/ecma262/#sec-abstract-operations
+ //https://262.ecma-international.org/5.1/#sec-11.4.3
