@@ -45,8 +45,8 @@ let myYoutube="Nandkishore"
 let anotherName= myYoutube
 anotherName="chai aur code "
 
-console.log(myYoutube);
-console.log(anotherName);
+console.log(myYoutube);//Nandkishore
+console.log(anotherName);//chai aur code
 
 // Heap(non primitive)
 let userOne={
@@ -57,5 +57,5 @@ let userOne={
 let userTwo = userOne
 userTwo.email="nk@gmail.com"
 
-console.log(userOne.email);
-console.log(userTwo.email);
+console.log(userOne.email); // nk@gmail.com
+console.log(userTwo.email);  // nk@gmail.com
