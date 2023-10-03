@@ -12,7 +12,7 @@ let userEmail// undefined
 const id =Symbol('123')// symbol
 const anotherId = Symbol('123')
 
-console.log(id === anotherId);
+console.log(id === anotherId);//false
 
 const bigNumber= 52564365226565n//bigint 
 
@@ -37,7 +37,7 @@ const myFunction = function() {
 //https://262.ecma-international.org/5.1/#sec-11.4.3
 
 //++++++++++++++++++Memory+++++++++++++
-
+// two types of memory
 // Stack(Primitive)   , Heap(Non primitive)
 //    Stack(primitive)
 
