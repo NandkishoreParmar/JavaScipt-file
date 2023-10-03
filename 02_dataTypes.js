@@ -6,9 +6,9 @@ console.log(3
     
     //code read karne me sahii hona chahiye  ase likhna sahi hota hy // console.log(3+3)
 
-    + 3)// code ase nhi likhna hy 
+    + 3)// code ase nhi likhna hy //output 6
 
-    console.log("Nandkishore ");
+    console.log("Nandkishore "); // Nandkishore 
 
 
 
@@ -30,7 +30,7 @@ console.log(3
     symbol = unique hona 
     */
 
-    console.log(typeof age) // typeoff kisi bhi variable ka datatype check karne ke liye use karte
+    console.log(typeof age) // output number //typeoff kisi bhi variable ka datatype check karne ke liye use karte
     console.log(typeof null)// output object 
     console.log(typeof undefined)// output undefined
 
