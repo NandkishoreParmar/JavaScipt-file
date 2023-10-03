@@ -37,7 +37,7 @@ console.log(Math.random() * 10 + 1);// 1 se kam ni aaigi 10 se jyada nhi
 const min= 10
 const max= 20
 
-console.log(Math.floor(Math.random() * (max-min+1))+ min);
+console.log(Math.floor(Math.random() * (max-min+1))+ min);// random value but 10 se 20 ke bich me 
 
 
 
