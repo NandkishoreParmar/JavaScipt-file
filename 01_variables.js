@@ -11,7 +11,7 @@ let accountState
 console.log(accountId);//14453
 console.table([accountEmail,accountPassword,accountCity,accountState ])
 /*    Table format me output milega 
-  | (index)  |  Values
+    | (index)  |  Values
     |   0      |  'naandkisgoe@gmail.com'
     |   1      |   '87654'
     |   2      |    'bhopal'
